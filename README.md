@@ -58,5 +58,5 @@ Tujuan utama dari setiap percobaan adalah:
 4.  Clone repositori ini (`git clone ...`) di dalam direktori `work/` pada setiap mesin.
 5.  Ikuti langkah-langkah yang dijelaskan untuk setiap soal, termasuk modifikasi kode dan penggunaan Wireshark pada interface yang sesuai (`eth0` untuk Soal 1, `eth1` untuk Soal 2, 3, dan 4).
 
-**Nama:** Muhammad Rifqi Ma'ruf
+**Nama:** Muhammad Rifqi Ma'ruf   
 **NRP:** 5025221060
